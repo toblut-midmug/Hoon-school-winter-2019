@@ -1,1 +1,1 @@
-# Hoon-school-winter-2019
+# Completed assignments for Hoon 101 (winter 2019)
